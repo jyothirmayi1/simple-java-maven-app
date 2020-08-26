@@ -25,9 +25,9 @@
 
                 <configuration>
 
-                    <source>10.0</source>
+                    <source>10.0.1</source>
 
-                    <target>10.0</target>
+                    <target>10.0.1</target>
 
                     <fork>true</fork>
 
