@@ -17,7 +17,7 @@
   </dependencies>
   <build>
     <plugins>
-     plugin>
+     <plugin>
 
                 <artifactId>maven-compiler-plugin</artifactId>
 
